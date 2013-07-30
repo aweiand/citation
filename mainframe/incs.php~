@@ -1,0 +1,22 @@
+<!-- CSS Struct -->	
+<link rel="stylesheet" type="text/css" href="<?= $CFG->www ?>mainframe/plugins/jquery/jquery.multiselect.css" />
+<link rel="stylesheet" type="text/css" href="<?= $CFG->www ?>mainframe/plugins/jquery/jquery.multiselect.filter.css" />     	
+<link rel="stylesheet" type="text/css" href="<?= $CFG->www ?>mainframe/plugins/jquery/css/custom-theme/jquery-ui-1.10.2.custom.min.css" />
+<link rel="stylesheet" type="text/css" href="<?= $CFG->www ?>mainframe/plugins/bootstrap/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="<?= $CFG->www ?>mainframe/plugins/jquery/ms-Dropdown-master/css/msdropdown/dd.css" />
+<link rel="stylesheet" type="text/css" href="<?= $CFG->www ?>css/data-tables.css" />
+<link rel="stylesheet" type="text/css" href="<?= $CFG->www ?>css/core.css" />
+<link rel="stylesheet" type="text/css" href="<?= $CFG->www ?>css/menu.css" />
+<link rel="stylesheet" type="text/css" href="<?= $CFG->www ?>css/comuns.css" />
+
+<!-- JS Struct -->
+<script type="text/javascript" src="<?= $CFG->www ?>mainframe/plugins/jquery/js/jquery-1.9.1.js"></script>
+<script  src="<?= $CFG->www ?>mainframe/plugins/jquery/ms-Dropdown-master/js/msdropdown/jquery.dd.min.js"></script>
+<script type="text/javascript" src="<?= $CFG->www ?>mainframe/plugins/jquery/js/jquery-ui-1.10.2.custom.min.js"></script>
+<script type="text/javascript" src="<?= $CFG->www ?>mainframe/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="<?= $CFG->www ?>mainframe/plugins/jquery/DataTables-1.9.4/media/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="<?= $CFG->www ?>mainframe/plugins/jquery/jquery.multiselect.js"></script>
+<script type="text/javascript" src="<?= $CFG->www ?>mainframe/plugins/jquery/jquery.multiselect.filter.js"></script>   
+<script type="text/javascript" src="<?= $CFG->www ?>js/utils.js"></script>
+<script type="text/javascript" src="<?= $CFG->www ?>js/core.js"></script>
+<script type="text/javascript" src="<?= $CFG->www ?>js/function.js"></script>

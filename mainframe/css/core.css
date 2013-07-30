@@ -1,0 +1,56 @@
+﻿/* *
+    Document   : core
+    Author     : Augusto Weiand <guto.weiand@gmail.com>
+    Description:
+        Estilos do núcleo do sistema
+*/
+
+/* 
+ *      Regras Gerais INI
+ */
+
+body {
+        margin: 0;
+        padding: 0;
+        background-color: #A5B443;
+
+}
+
+* {
+        margin: 0;
+        padding: 0;
+}
+
+img {
+        border: none;
+}
+
+/* 
+ *       Regras Gerais FIM
+ */
+
+/* 
+ *       Regras Principais INI
+ */
+
+
+/*
+ * HEADER INI
+ */
+
+
+/*
+ * HEADER FIM
+ */
+
+/*
+ * FOOTER INI
+ */
+
+/*
+ * FOOTER END
+ */
+
+/* 
+ *       Regras Principais FIM
+ */

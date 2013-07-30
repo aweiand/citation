@@ -1,0 +1,10 @@
+ErrorDocument 403 /citation/error.php?id=403
+ErrorDocument 404 /citation/error.php?id=404
+
+RewriteEngine on
+
+RewriteBase /citation
+
+RewriteRule ^pg/.* home.php
+
+RewriteRule ^act/.* mainframe/act.php
